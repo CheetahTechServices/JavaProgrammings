@@ -1,0 +1,58 @@
+2018-May-29 12:56:05,433 [main] org.apache.log4j.Logger 
+  INFO  0
+2018-May-29 12:56:05,434 [main] org.apache.log4j.Logger 
+  INFO  1
+2018-May-29 12:56:05,434 [main] org.apache.log4j.Logger 
+  INFO  2
+2018-May-29 12:56:05,435 [main] org.apache.log4j.Logger 
+  INFO  3
+2018-May-29 12:56:05,435 [main] org.apache.log4j.Logger 
+  INFO  4
+2018-May-29 12:56:05,435 [main] org.apache.log4j.Logger 
+  INFO  5
+2018-May-29 12:56:05,435 [main] org.apache.log4j.Logger 
+  INFO  6
+2018-May-29 12:56:05,435 [main] org.apache.log4j.Logger 
+  INFO  7
+2018-May-29 12:56:05,435 [main] org.apache.log4j.Logger 
+  INFO  8
+2018-May-29 12:56:51,944 [main] org.apache.log4j.Logger 
+  INFO  0
+2018-May-29 12:56:51,946 [main] org.apache.log4j.Logger 
+  INFO  1
+2018-May-29 12:56:51,947 [main] org.apache.log4j.Logger 
+  INFO  2
+2018-May-29 12:56:51,947 [main] org.apache.log4j.Logger 
+  INFO  3
+2018-May-29 12:56:51,947 [main] org.apache.log4j.Logger 
+  INFO  4
+2018-May-29 12:56:51,947 [main] org.apache.log4j.Logger 
+  INFO  5
+2018-May-29 12:56:51,948 [main] org.apache.log4j.Logger 
+  INFO  6
+2018-May-29 12:56:51,948 [main] org.apache.log4j.Logger 
+  INFO  7
+2018-May-29 12:56:51,948 [main] org.apache.log4j.Logger 
+  INFO  8
+2018-May-29 12:56:51,948 [main] org.apache.log4j.Logger 
+  DEBUG ended
+2018-May-29 12:58:15,599 [main] org.apache.log4j.Logger 
+  INFO  0
+2018-May-29 12:58:15,600 [main] org.apache.log4j.Logger 
+  INFO  1
+2018-May-29 12:58:15,600 [main] org.apache.log4j.Logger 
+  INFO  2
+2018-May-29 12:58:15,600 [main] org.apache.log4j.Logger 
+  INFO  3
+2018-May-29 12:58:15,601 [main] org.apache.log4j.Logger 
+  INFO  4
+2018-May-29 12:58:15,601 [main] org.apache.log4j.Logger 
+  INFO  5
+2018-May-29 12:58:15,601 [main] org.apache.log4j.Logger 
+  INFO  6
+2018-May-29 12:58:15,601 [main] org.apache.log4j.Logger 
+  INFO  7
+2018-May-29 12:58:15,601 [main] org.apache.log4j.Logger 
+  INFO  8
+2018-May-29 12:58:15,601 [main] org.apache.log4j.Logger 
+  DEBUG ended

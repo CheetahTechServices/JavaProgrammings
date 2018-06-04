@@ -1,0 +1,20 @@
+2018-May-29 13:00:37,217 [main] org.apache.log4j.Logger 
+  INFO  0
+2018-May-29 13:00:37,218 [main] org.apache.log4j.Logger 
+  INFO  1
+2018-May-29 13:00:37,219 [main] org.apache.log4j.Logger 
+  INFO  2
+2018-May-29 13:00:37,219 [main] org.apache.log4j.Logger 
+  INFO  3
+2018-May-29 13:00:37,219 [main] org.apache.log4j.Logger 
+  INFO  4
+2018-May-29 13:00:37,219 [main] org.apache.log4j.Logger 
+  INFO  5
+2018-May-29 13:00:37,219 [main] org.apache.log4j.Logger 
+  INFO  6
+2018-May-29 13:00:37,220 [main] org.apache.log4j.Logger 
+  INFO  7
+2018-May-29 13:00:37,220 [main] org.apache.log4j.Logger 
+  INFO  8
+2018-May-29 13:00:37,220 [main] org.apache.log4j.Logger 
+  DEBUG ended
