@@ -16,5 +16,7 @@
 	<classpathentry kind="lib" path="/home/tyss/Desktop/ananth/jar/poi-3.17/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="/home/tyss/Desktop/ananth/jar/poi-3.17/lib/commons-collections4-4.1.jar"/>
 	<classpathentry kind="lib" path="/home/tyss/Desktop/ananth/jar/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
